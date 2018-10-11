@@ -1,0 +1,10 @@
+[package]
+name = "string_const"
+version = "0.1.0"
+authors = ["MSxDOS <melcodos@gmail.com>"]
+description = "Once a wrapper and a macro"
+license = "Apache-2.0 OR MIT"
+publish = false
+
+[dependencies]
+string_const_proc = { path = "string_const_proc" }

@@ -1,0 +1,10 @@
+[package]
+name = "string_const_proc"
+version = "0.1.0"
+authors = ["MSxDOS <melcodos@gmail.com>"]
+description = "Procedural macros that do stuff"
+license = "Apache-2.0 OR MIT"
+publish = false
+
+[lib]
+proc-macro = true
